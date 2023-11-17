@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Google Classroom</title>
+    <meta name="description" content="A gateway to the free Internet." />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#434c5e">
+    <link href="index.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8XK93Z7FJV"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8XK93Z7FJV');
+    </script>
+</head>
+<body>
+    <div style="width: 728px; height: 90px; margin: 0 auto; background-color: #f0f0f0; text-align: center; padding: 20px;">
+    <script type="text/javascript">
+	atOptions = {
+		'key' : '19f9b6cd9f16d703d913ef53bca0785a',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/19f9b6cd9f16d703d913ef53bca0785a/invoke.js"></scr' + 'ipt>');
+    </script>
+    </div>
+    <div title="" class="logo-wrapper">
+        <img class="logo" src="logo.png" alt="Gateway Logo">
+        <h1 title="Gateway Title">Gat(8)way</h1>
+    </div>
+    <div title="" class="desc">
+        <p class="textcenter">Want more links? Join the <a href="https://discord.gg/JEPGMqMtkK">Discord</a></p>
+    </div>
+    <div style="width: 160px; height: 300px; margin: 0 auto; background-color: #f0f0f0; text-align: center; padding: 20px;">
+    <script type="text/javascript">
+	atOptions = {
+		'key' : 'f5c6ca68654a0109a3b17c82df21d56b',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/f5c6ca68654a0109a3b17c82df21d56b/invoke.js"></scr' + 'ipt>');
+    </script>
+    </div>
+    <form>
+        <input placeholder="Search the web without restriction.">
+    </form>
+    <div style="width: 468px; height: 60px; margin: 0 auto; background-color: #f0f0f0; text-align: center; padding: 20px;">
+    <script type="text/javascript">
+	atOptions = {
+		'key' : '49793f4fc76b6417962a45977106b6a9',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/49793f4fc76b6417962a45977106b6a9/invoke.js"></scr' + 'ipt>');
+    </script>
+    </div>
+    <footer>
+        <a title="Games" href="games.txt">Games</a>
+        <a title="There's more links in the Discord. Site support, too. Frequent changelogs." href="https://discord.gg/JEPGMqMtkK">Discord</a>
+        <a style="margin-left: auto" title="Terms of Service of Gateway." href="pages/tospp.html"><sub>Terms of Service and Privacy Policy</sub></a>
+        <span>Gat8way &copy; 2023, ver. 0.6.9</span>
+    </footer>
+    <script src="uv/uv.bundle.js"></script>
+    <script src="uv/uv.config.js"></script>
+    <script src="index.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"827a92dccd3e2289","version":"2023.10.0","r":1,"token":"a57e3e3cbaea46d8882675f523c77591","b":1}' crossorigin="anonymous"></script>
+</body>
+</html>
